@@ -1,7 +1,10 @@
-**Computer Science Fundamentals and Career Pathways
-Assignment 3 – AI & ML Domain Exploration – Pathway Report
-Author: Kaushal (B.Tech CSE – AI & ML)
-Date: 22 Nov 2025**
+**Computer Science Fundamentals and Career Pathways**
+
+**Assignment 3 – AI & ML Domain Exploration – Pathway Report**
+
+**Author: Kaushal (B.Tech CSE – AI & ML)**
+
+**Date: 22 Nov 2025**
 
 **Project Overview**
 
