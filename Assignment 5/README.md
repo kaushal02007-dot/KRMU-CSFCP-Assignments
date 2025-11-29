@@ -4,6 +4,11 @@
 
 **Roll no : 2501730085**
 
+**Course : B.Tech (AI & ML)**
+
+**Section : B**
+
+
 **Overview**
 
 This assignment demonstrates practical skills in computer science fundamentals, open-source tools, and career planning. It aims to help students:
